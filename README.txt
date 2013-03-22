@@ -13,6 +13,9 @@ parameters. A thorough explanation of the source code, relevant variables,
 user settings and steps to perform fits of model parameters to data is
 provided in SPHEREFIT_guide.pdf, generated once SPHEREFIT.tgz is unarchived.
 
+SPHEREFIT is written for Linux/OSx systems and requires a C++ compiler. The
+only library necessary to run SPHEREFIT is the math library.
+
 - DOWNLOADING AND EXTRACTING.
 
 i) Once in the correct repository "KonstantinosLeventis/SPHEREFIT",
